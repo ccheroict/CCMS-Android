@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CCMS</string>
+    <string name="action_refresh">Odśwież</string>
+    <string name="orders_list">Lista Zamówień</string>
+    <string name="please_wait">Proszę czekaj...</string>
+    <string name="title_activity_order_detail">OrderDetailActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="add">Dodaj</string>
+    <string name="title_activity_login">Logowanie</string>
+    <string name="username">Uzytkownik</string>
+    <string name="title_activity_order_list">Lista zamówień</string>
+    <string name="password">Hasło</string>
+    <string name="login">Zaloguj</string>
+    <string name="summarized">Razem</string>
+    <string name="required_pack">Ilość paczek</string>
+    <string name="products">Produkty</string>
+    <string name="value">Watość</string>
+    <string name="title_activity_item_detail">Dodaj/Edytuj produkt</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="id">ID</string>
+    <string name="search">Szukaj</string>
+    <string name="supplier">Dostawca</string>
+    <string name="colour">Kolor</string>
+    <string name="gender">Rodzaj</string>
+    <string name="size">Rozmiar</string>
+    <string name="pack">Opakowanie</string>
+    <string name="price">Cena</string>
+    <string name="save">Zapis</string>
+</resources>
